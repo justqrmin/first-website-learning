@@ -19,6 +19,3 @@ function toggleWhite() {
     element.classList.toggle("white-mode")
 }
 
-
-
-

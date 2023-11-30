@@ -11,11 +11,15 @@ body{
     align-items: center;
     text-align: center;
 }
+
 .center-header{
     color: green;
     font-size: 50px;
     font-family: 'Pacifico';
     margin-top: 15%;
+}
+.center-header p2{
+    text-shadow: green 0px 0px 15px;
 }
 .link-space{
     margin-top: 3%;
@@ -25,4 +29,16 @@ body{
     background-color: green;
     border-radius: 20px;
     margin-top: 10px;
+}
+.col-md-4:hover{
+    background-color: rgb(0, 170, 0);
+    box-shadow: rgb(0, 170, 0) 0px 0px 3px 0px;
+}
+.text-portfolio-goofy{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+    color: white;
+}
+.about-me{
+    margin-top: 20%;
 }
