@@ -40,5 +40,17 @@ body{
     color: white;
 }
 .about-me{
-    margin-top: 20%;
+    margin-top: 21.9%;
+}
+.about-me-head{
+    text-align: center;
+    color: orange;
+}
+.about-me-head span{
+    background-color: #181818;
+}
+
+.well-hey-content{
+    margin-top: 8px;
+    color: aliceblue;
 }
