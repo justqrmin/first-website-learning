@@ -1,0 +1,28 @@
+body{
+    padding: 25px;
+    background-color: #1f1f1f;
+    color: black;
+    font-size: 25px;
+}
+.white-mode{
+    background-color: white;
+}
+.center{
+    align-items: center;
+    text-align: center;
+}
+.center-header{
+    color: green;
+    font-size: 50px;
+    font-family: 'Pacifico';
+    margin-top: 15%;
+}
+.link-space{
+    margin-top: 3%;
+}
+.col-md-4{
+    cursor: pointer;
+    background-color: green;
+    border-radius: 20px;
+    margin-top: 10px;
+}
